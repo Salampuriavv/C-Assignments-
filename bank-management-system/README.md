@@ -33,7 +33,7 @@ To get started with the Bank Management System, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/Salampuriavv/bank-management-system.git
 
 
 1. Install the necessary dependencies (e.g., Qt, wxWidgets) as per the Prerequisites section.
